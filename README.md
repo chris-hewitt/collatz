@@ -1,4 +1,4 @@
-# collatz
+# Collatz Conjecture Optimization
 
 ## Problem Definition
 
